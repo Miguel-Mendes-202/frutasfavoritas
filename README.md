@@ -1,2 +1,2 @@
-# FrutasPreferidas
+# frutaspreferidas
 Exercicio de FrutasPreferidas
